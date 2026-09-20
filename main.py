@@ -14,7 +14,7 @@ ContextTypes,
 filters,
 )
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = "..."
 
 COIN_COOLDOWN = 5 * 60
 STEAL_COOLDOWN = 60 * 60
